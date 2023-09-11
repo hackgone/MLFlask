@@ -1,0 +1,71 @@
+.show {
+    display: none
+}
+
+body{
+    background-color:white
+}
+#header{
+    margin-left:550px;
+    margin-top:90px;
+    font-size:90px;
+}
+
+.form-1{
+    width : 800px;
+    height : 400px;
+    margin-left :340px;
+    margin-top: 80px;
+    background-color : orange
+}
+#cibil-form{
+    padding-top:80px;
+    padding-left : 200px
+}
+#input-1{
+    width:400px;
+    height:40px
+}
+#label-1{
+    padding-left:200px;
+    font-size:50px;
+    color:white;
+    padding-top:100px
+}
+.button-1 {
+    margin-top: 10px;
+    margin-left: 150px;
+    width:100px;
+    height:30px
+}
+
+.form-2 {
+    background-color: lightslategray;
+    width: 800px;
+    height: 700px;
+    margin-left: 340px;
+    margin-top: 150px
+}
+
+#label-2 {
+    font-size: 30px;
+    margin-left: 180px;
+    padding-top: 50px
+}
+#input-2, #input-3, #input-4, #input-5, #input-6 {
+    display: block;
+    width: 300px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 20px
+}
+
+.button-2 {
+    width: 100px;
+    margin-left: 100px
+}
+
+#loan_value {
+    margin-left: 10px;
+    color: white
+}
